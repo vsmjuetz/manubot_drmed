@@ -21,8 +21,8 @@ header-includes: |
   <meta name="dc.date" content="2025-04-19" />
   <meta name="citation_publication_date" content="2025-04-19" />
   <meta property="article:published_time" content="2025-04-19" />
-  <meta name="dc.modified" content="2025-06-05T12:32:26+00:00" />
-  <meta property="article:modified_time" content="2025-06-05T12:32:26+00:00" />
+  <meta name="dc.modified" content="2025-06-05T13:22:18+00:00" />
+  <meta property="article:modified_time" content="2025-06-05T13:22:18+00:00" />
   <meta name="dc.language" content="de" />
   <meta name="citation_language" content="de" />
   <meta name="dc.relation.ispartof" content="Manubot" />
