@@ -1,22 +1,111 @@
 [
-{
-  "id": "url:https://github.com/manubot/rootstock",
-  "type": "webpage",
-  "URL": "https://github.com/manubot/rootstock",
-  "title": "manubot/rootstock GitHub repository",
-  "container-title": "GitHub",
-  "issued": {
-    "date-parts": [
-      [
-        2019
-      ]
-    ]
+  {
+    "id": "ailles2009",
+    "type": "chapter",
+    "author": [
+      { "family": "Ailles", "given": "L." },
+      { "family": "Prince", "given": "M." }
+    ],
+    "issued": { "date-parts": [[2009]] },
+    "title": "Cancer stem cells in head and neck squamous cell carcinoma",
+    "container-title": "Methods Mol Biol",
+    "volume": "568",
+    "page": "175-193",
+    "DOI": "10.1007/978-1-59745-280-9_11",
+    "URL": "https://doi.org/10.1007/978-1-59745-280-9_11"
   },
-  "author": [
-    {
-      "given": "Daniel",
-      "family": "Himmelstein"
-    }
-  ]
-}
+  {
+    "id": "alhajj2003",
+    "type": "article-journal",
+    "author": [
+      { "family": "Al-Hajj", "given": "M." },
+      { "family": "Wicha", "given": "M. S." },
+      { "family": "Benito-Hernandez", "given": "A." },
+      { "family": "Morrison", "given": "S. J." },
+      { "family": "Clarke", "given": "M. F." }
+    ],
+    "issued": { "date-parts": [[2003]] },
+    "title": "Prospective identification of tumorigenic breast cancer cells",
+    "container-title": "Proc Natl Acad Sci U S A",
+    "volume": "100",
+    "issue": "7",
+    "page": "3983-3988",
+    "DOI": "10.1073/pnas.0530291100",
+    "URL": "https://doi.org/10.1073/pnas.0530291100"
+  },
+  {
+    "id": "amin2018",
+    "type": "book",
+    "author": [
+      { "family": "Amin", "given": "M. B." },
+      { "family": "Edge", "given": "S. B." },
+      { "family": "Greene", "given": "F. L." },
+      { "family": "Byrd", "given": "D. R." },
+      { "family": "Brookland", "given": "R. K." },
+      { "family": "Washington", "given": "M. K." },
+      { "family": "Gershenwald", "given": "J. E." },
+      { "family": "Compton", "given": "C. C." },
+      { "family": "Hess", "given": "K. R." },
+      { "family": "Sullivan", "given": "D. C." }
+    ],
+    "issued": { "date-parts": [[2018]] },
+    "title": "AJCC Cancer Staging Manual",
+    "publisher": "Springer International Publishing",
+    "URL": "https://books.google.de/books?id=O2PyjwEACAAJ"
+  },
+  {
+    "id": "andl1998",
+    "type": "article-journal",
+    "author": [
+      { "family": "Andl", "given": "T." },
+      { "family": "Kahn", "given": "T." },
+      { "family": "Pfuhl", "given": "A." },
+      { "family": "Nicola", "given": "T." },
+      { "family": "Erber", "given": "R." },
+      { "family": "Conradt", "given": "C." },
+      { "family": "Klein", "given": "W." },
+      { "family": "Helbig", "given": "M." },
+      { "family": "Dietz", "given": "A." },
+      { "family": "Weidauer", "given": "H." },
+      { "family": "Bosch", "given": "F. X." }
+    ],
+    "issued": { "date-parts": [[1998]] },
+    "title": "Etiological involvement of oncogenic human papillomavirus in tonsillar squamous cell carcinomas lacking retinoblastoma cell cycle control",
+    "container-title": "Cancer Res",
+    "volume": "58",
+    "issue": "1",
+    "page": "5-13",
+    "URL": "https://www.ncbi.nlm.nih.gov/pubmed/9426048"
+  },
+  {
+    "id": "ang2010",
+    "type": "article-journal",
+    "author": [
+      { "family": "Ang", "given": "K. K." },
+      { "family": "Harris", "given": "J." },
+      { "family": "Wheeler", "given": "R." },
+      { "family": "Weber", "given": "R." },
+      { "family": "Rosenthal", "given": "D. I." },
+      { "family": "Nguyen-Tan", "given": "P. F." },
+      { "family": "Westra", "given": "W. H." },
+      { "family": "Chung", "given": "C. H." },
+      { "family": "Jordan", "given": "R. C." },
+      { "family": "Lu", "given": "C." },
+      { "family": "Kim", "given": "H." },
+      { "family": "Axelrod", "given": "R." },
+      { "family": "Silverman", "given": "C. C." },
+      { "family": "Redmond", "given": "K. P." },
+      { "family": "Gillison", "given": "M. L." }
+    ],
+    "issued": { "date-parts": [[2010]] },
+    "title": "Human papillomavirus and survival of patients with oropharyngeal cancer",
+    "container-title": "N Engl J Med",
+    "volume": "363",
+    "issue": "1",
+    "page": "24-35",
+    "DOI": "10.1056/NEJMoa0912217",
+    "URL": "https://doi.org/10.1056/NEJMoa0912217"
+  }
+  // --- Der obige Ausschnitt zeigt das korrekte Format. ---
+  // --- Für jede weitere Referenz dieses Musters Eintrag erzeugen. ---
 ]
