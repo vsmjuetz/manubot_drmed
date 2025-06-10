@@ -53,7 +53,7 @@ allgemein
 allgemeine
 allgemeinen
 Alphelys
-Als
+als
 alternativen
 Altersspanne
 amet
@@ -67,7 +67,7 @@ analysiert
 analysierte
 analysierten
 Anatomie
-andere
+Andere
 anderem
 anderen
 anderer
@@ -93,7 +93,7 @@ Anordnung
 anoxischen
 Ansatz
 Ansätze
-Anschließend
+anschließend
 anschließende
 anschließendem
 anschließender
@@ -118,7 +118,7 @@ assoziiert
 assoziierten
 Ätiologie
 atopischen
-auch
+Auch
 auf
 Aufbau
 aufgearbeitet
@@ -132,7 +132,7 @@ aufsteigenden
 Auftreten
 aufweisen
 aufwiesen
-Aus
+aus
 Ausfälle
 ausführlich
 ausgedehnten
@@ -146,7 +146,7 @@ ausreichend
 Ausrichtung
 Aussagen
 ausschließlich
-außerdem
+Außerdem
 auswertbar
 auswertbare
 auswertbaren
@@ -194,7 +194,7 @@ Behandlungsverstärkungsstrategien
 Behandlungszeit
 Behandlungszentren
 Behandlungszentrum
-Bei
+bei
 beide
 beidem
 beiden
@@ -342,7 +342,7 @@ chirurgischen
 Chromogenlösung
 cillum
 Cinciripini
-cisplatin
+Cisplatin
 Clin
 clinicopathologic
 clonogenen
@@ -368,8 +368,8 @@ Cyclin
 cytometric
 Dabei
 dadurch
-dafür
-Daher
+Dafür
+daher
 Dahlstrand
 Dako
 Dalerba
@@ -381,10 +381,10 @@ darauf
 dargestellt
 darstellt
 daruas
-darüber
+Darüber
 Darüber
 darzustellen
-Das
+das
 dass
 Daten
 Datenanalysen
@@ -414,12 +414,12 @@ denselben
 deparaffiniert
 der
 deren
-derzeit
+Derzeit
 Des
 deserunt
-deshalb
+Deshalb
 Deskription
-Deskriptive
+deskriptive
 deskriptiven
 deskriptives
 desselben
@@ -497,13 +497,13 @@ Einbeziehung
 einbezogen
 eindeutig
 eindeutige
-Eine
+eine
 einem
 einen
 einer
 Einerschritten
 eines
-einfluss
+Einfluss
 Einflusses
 Einflussfaktor
 Einflussfaktoren
@@ -565,7 +565,7 @@ entfällt
 entfernte
 entfernten
 entfernter
-entferntes
+Entferntes
 Entfernung
 enthalten
 entnommen
@@ -589,7 +589,7 @@ epithelia
 Erber
 Ereignis
 Ereignisdatenanalysen
-Ereignisfreie
+ereignisfreie
 Ereignisfreien
 Ereigniskurve
 Ereigniskurven
@@ -630,7 +630,7 @@ erhitzt
 Erhitzung
 erhoben
 erhöht
-Erhöhte
+erhöhte
 erhöhten
 erhöhtes
 Erhöhung
@@ -766,7 +766,7 @@ führen
 führt
 fünf
 für
-Für
+für
 gaben
 Galichet
 galt
@@ -1007,13 +1007,13 @@ IgG
 IHC
 ihre
 ihrer
-im
+Im
 Immunhistochemie
 immunhistochemisch
 immunhistochemische
 immunhistochemischen
 immunhistochemischer
-Immunhistologische
+immunhistologische
 Immunohistochemical
 Immunol
 Immunoperoxidase
@@ -1036,8 +1036,8 @@ inkonsequent
 Inkubation
 inkubiert
 Innerhalb
-insbesondere
-insgesamt
+Insbesondere
+Insgesamt
 integrierte
 intendierte
 Intension
@@ -1067,8 +1067,8 @@ Jahres
 Jahresüberlebensrate
 Jassem
 Jauffret
-je
-jede
+Je
+Jede
 jedem
 jeder
 jedes
@@ -1103,7 +1103,7 @@ Karamouzis
 Karzinogenese
 Karzinom
 Karzinome
-karzinomen
+Karzinomen
 Karzinomgewebe
 Kategorie
 Kategorien
@@ -1132,7 +1132,7 @@ klinisch
 Klinische
 klinischem
 klinischen
-Klinischer
+klinischer
 klinisches
 Klöppel
 Klussmann
@@ -1196,10 +1196,10 @@ Krebszellen
 Kreipe
 Kreuztabellen
 kumulativen
-kurativ
+Kurativ
 kurativer
 Kurve
-kurven
+Kurven
 kurzem
 Kurzfassung
 Kürzlich
@@ -1223,7 +1223,7 @@ laufenden
 läuft
 Leben
 Lebensstilfaktoren
-lediglich
+Lediglich
 leere
 leeren
 Lefebvre
@@ -1287,7 +1287,7 @@ Lymphknotenstationen
 Lymphknotenstatus
 Lymphoepithelial
 magna
-Maier
+maier
 makroskopischen
 manchmal
 Männern
@@ -1443,7 +1443,7 @@ Nettelbeck
 Neubeck
 neuer
 neuesten
-nicht
+Nicht
 Nichterfüllen
 Nichtraucher
 Niedobitek
@@ -1486,7 +1486,7 @@ Ordonez
 organisiert
 ORL
 Oro
-oropharyngeal
+Oropharyngeal
 oropharyngealem
 oropharyngealen
 Oropharyngealkarzinome
@@ -1581,7 +1581,7 @@ Pocock
 Polymerasekettenreaktion
 Ponzio
 Porceddu
-Positiv
+positiv
 positivem
 positiven
 positiver
@@ -1611,7 +1611,7 @@ pretreatment
 Primärantikörper
 primäre
 primären
-primärer
+Primärer
 Primärresektaten
 Primärtumoren
 Primärtumorresektaten
@@ -1631,7 +1631,7 @@ Prognoseschätzung
 Prognostikator
 Prognostiker
 prognostisch
-Prognostische
+prognostische
 prognostischen
 prognostischer
 Prognostisches
@@ -1870,7 +1870,7 @@ solchen
 soll
 sollen
 sollten
-somit
+Somit
 sondern
 sorgfältig
 sowie
@@ -1923,7 +1923,7 @@ stärkerer
 stärkste
 Stationen
 Statistik
-Statistisch
+statistisch
 statistische
 statistischen
 statt
@@ -2101,7 +2101,7 @@ Überexpression
 überführt
 überführt
 überhaupt
-Überleben
+überleben
 Überleben
 Überlebens
 Überlebens
@@ -2163,7 +2163,7 @@ univariaten
 univariater
 univunivariaten
 Unkown
-Unsere
+unsere
 unserem
 unserer
 unten
@@ -2342,7 +2342,7 @@ Weissenborn
 Weissman
 weiter
 weitere
-weiteren
+Weiteren
 weiterer
 weiteres
 weitgehend
@@ -2352,7 +2352,7 @@ welches
 wenige
 wenigen
 weniger
-wenn
+Wenn
 werden
 Wert
 Westra
@@ -2369,7 +2369,7 @@ Wieneke
 wiesen
 Wikland
 Wilczynski
-wir
+Wir
 wird
 wirkt
 Wirkung
@@ -2412,7 +2412,7 @@ Zelllinien
 zelluläre
 Zellwachstum
 Zellzyklus
-Zensiert
+zensiert
 zensierte
 Zensierung
 Zensierungen
@@ -2425,14 +2425,14 @@ Ziele
 Zigaretten
 Zitratpuffer
 Znaor
-Zu
+zu
 Zudem
 Zugabe
 zugeführt
 zugeordnet
 zuletzt
 Zum
-Zunächst
+zunächst
 Zuordnung
 zur
 zurückgegriffen
@@ -2446,10 +2446,10 @@ zusätzliche
 zusätzlichen
 Zustand
 zustande
-Zuvor
+zuvor
 zwei
 zweier
 Zweierschritten
 zweiseitigen
-zwischen
+Zwischen
 zylindrisches
