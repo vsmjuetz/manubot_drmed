@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/vsmjuetz/manubot_drmed/tree/gh-pages) branch hosts the contents of this directory at <https://vsmjuetz.github.io/manubot_drmed/>.
-The permalink for this webpage version is <https://vsmjuetz.github.io/manubot_drmed/v/9964a0853b2c783447052a2aa681a2c5b1914406/>.
+The permalink for this webpage version is <https://vsmjuetz.github.io/manubot_drmed/v/9b743e424291b6fcc4e06fcace13cd2e6bb87e0d/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://vsmjuetz.github.io/manubot_drmed/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`9964a0853b2c783447052a2aa681a2c5b1914406`](https://github.com/vsmjuetz/manubot_drmed/commit/9964a0853b2c783447052a2aa681a2c5b1914406).
+[`9b743e424291b6fcc4e06fcace13cd2e6bb87e0d`](https://github.com/vsmjuetz/manubot_drmed/commit/9b743e424291b6fcc4e06fcace13cd2e6bb87e0d).
