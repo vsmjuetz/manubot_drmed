@@ -37,6 +37,18 @@ The directories are as follows:
 + [`build`](build) contains commands and tools for building the manuscript.
 + [`ci`](ci) contains files necessary for deployment via continuous integration.
 
+### DOCX Conversion
+
+`docx_to_manubot.py` automates converting a DOCX dissertation into
+numbered Markdown files that follow the Manubot layout.
+Run the script with the input file and the output directory, for example:
+
+```sh
+./docx_to_manubot.py Dissertation.docx content
+```
+
+The script generates `00_mapping.md` with an overview of the produced files.
+
 ### Local execution
 
 The easiest way to run Manubot is to use [continuous integration](#continuous-integration) to rebuild the manuscript when the content changes.
