@@ -46,14 +46,14 @@ Alkoholkonsums
 Alkohollösungen
 Alkoholreihe
 alks
-Alle
+alle
 allem
 aller
 allgemein
 allgemeine
 allgemeinen
 Alphelys
-als
+Als
 alternativen
 Altersspanne
 amet
@@ -67,7 +67,7 @@ analysiert
 analysierte
 analysierten
 Anatomie
-andere
+Andere
 anderem
 anderen
 anderer
@@ -93,7 +93,7 @@ Anordnung
 anoxischen
 Ansatz
 Ansätze
-anschließend
+Anschließend
 anschließende
 anschließendem
 anschließender
@@ -118,7 +118,7 @@ assoziiert
 assoziierten
 Ätiologie
 atopischen
-auch
+Auch
 auf
 Aufbau
 aufgearbeitet
@@ -132,7 +132,7 @@ aufsteigenden
 Auftreten
 aufweisen
 aufwiesen
-Aus
+aus
 Ausfälle
 ausführlich
 ausgedehnten
@@ -146,7 +146,7 @@ ausreichend
 Ausrichtung
 Aussagen
 ausschließlich
-Außerdem
+außerdem
 auswertbar
 auswertbare
 auswertbaren
@@ -194,7 +194,7 @@ Behandlungsverstärkungsstrategien
 Behandlungszeit
 Behandlungszentren
 Behandlungszentrum
-Bei
+bei
 beide
 beidem
 beiden
@@ -366,16 +366,16 @@ Curado
 Curr
 Cyclin
 cytometric
-Dabei
+dabei
 dadurch
-Dafür
+dafür
 Daher
 Dahlstrand
-DAKO
+Dako
 Dalerba
 Dalianis
 damit
-Danach
+danach
 dann
 darauf
 dargestellt
@@ -393,7 +393,7 @@ Datenerfassung
 Datensatz
 Dauer
 Davon
-dazu
+Dazu
 dazugehörigen
 Debus
 Deckgläsern
@@ -415,11 +415,11 @@ deparaffiniert
 der
 deren
 Derzeit
-Des
+des
 deserunt
-deshalb
+Deshalb
 Deskription
-deskriptive
+Deskriptive
 deskriptiven
 deskriptives
 desselben
@@ -444,10 +444,10 @@ dicke
 dienen
 Dienes
 diesbezüglich
-Diese
+diese
 diesem
 diesen
-Dieser
+dieser
 Dieses
 Dietz
 Differentialprognosen
@@ -457,7 +457,7 @@ Differenzierungsgrad
 Differenzierungsgraden
 direkte
 Diskussion
-DKTK
+Dktk
 DM
 DMS
 Dokumentation
@@ -503,7 +503,7 @@ einen
 einer
 Einerschritten
 eines
-Einfluss
+einfluss
 Einflusses
 Einflussfaktor
 Einflussfaktoren
@@ -540,7 +540,7 @@ einzubringen
 eiusmod
 EK
 Ekzems
-El
+el
 elektiven
 elit
 Elsevier
@@ -943,7 +943,7 @@ Hiddemann
 hier
 Hierbei
 hiernach
-hilfe
+Hilfe
 hin
 hinaus
 hindeutet
@@ -952,7 +952,7 @@ hinsichtlich
 Hintergrund
 Hinweis
 Histologie
-histologisch
+Histologisch
 histologische
 histologischen
 histologischer
@@ -1013,7 +1013,7 @@ immunhistochemisch
 Immunhistochemische
 immunhistochemischen
 immunhistochemischer
-Immunhistologische
+immunhistologische
 immunohistochemical
 Immunol
 Immunoperoxidase
@@ -1035,9 +1035,9 @@ inhomogen
 inkonsequent
 Inkubation
 inkubiert
-Innerhalb
-insbesondere
-insgesamt
+innerhalb
+Insbesondere
+Insgesamt
 integrierte
 intendierte
 Intension
@@ -1058,7 +1058,7 @@ inwieweit
 ipsum
 irrtümlich
 irure
-Ist
+ist
 Jacquemier
 Jahr
 Jahre
@@ -1067,8 +1067,8 @@ Jahres
 Jahresüberlebensrate
 Jassem
 Jauffret
-Je
-jede
+je
+Jede
 jedem
 jeder
 jedes
@@ -1103,7 +1103,7 @@ Karamouzis
 Karzinogenese
 Karzinom
 Karzinome
-Karzinomen
+karzinomen
 Karzinomgewebe
 Kategorie
 Kategorien
@@ -1129,7 +1129,7 @@ Klienten
 Klijanienko
 Kliniken
 klinisch
-klinische
+Klinische
 klinischem
 klinischen
 klinischer
@@ -1199,7 +1199,7 @@ kumulativen
 Kurativ
 kurativer
 Kurve
-Kurven
+kurven
 kurzem
 Kurzfassung
 Kürzlich
@@ -1223,7 +1223,7 @@ laufenden
 läuft
 Leben
 Lebensstilfaktoren
-Lediglich
+lediglich
 leere
 leeren
 Lefebvre
@@ -1262,7 +1262,7 @@ logistischen
 Lohaus
 Lokal
 lokale
-lokales
+Lokales
 Lokalisation
 Lokalisationen
 lokalisiert
@@ -1287,7 +1287,7 @@ Lymphknotenstationen
 Lymphknotenstatus
 Lymphoepithelial
 magna
-Maier
+maier
 makroskopischen
 manchmal
 Männern
@@ -1361,7 +1361,7 @@ Minuten
 Miragall
 miteinander
 mitgeführt
-Mithilfe
+mithilfe
 Mitomycin
 Mittelfristiges
 Mittelfristigs
@@ -1449,7 +1449,7 @@ Nichtraucher
 Niedobitek
 niedrigen
 niedriger
-niemals
+Niemals
 Nikotin
 Nishimoto
 nisi
@@ -1464,7 +1464,7 @@ nuklearen
 nur
 oben
 Objektträger
-Obwohl
+obwohl
 occaecat
 offensichtlichsten
 officia
@@ -1486,7 +1486,7 @@ Ordonez
 organisiert
 ORL
 Oro
-Oropharyngeal
+oropharyngeal
 oropharyngealem
 oropharyngealen
 Oropharyngealkarzinome
@@ -1528,7 +1528,7 @@ Pathol
 Pathologe
 Pathologie
 pathologisch
-Pathologische
+pathologische
 pathologischen
 pathologischer
 Patienten
@@ -1586,7 +1586,7 @@ positivem
 positiven
 positiver
 Positivität
-postoperativ
+Postoperativ
 postoperativen
 postoperativer
 Potenzial
@@ -1851,7 +1851,7 @@ Signifikanz
 Signifikanzniveau
 Silverman
 simultan
-Simultane
+simultane
 sind
 sinkt
 sint
@@ -1923,7 +1923,7 @@ stärkerer
 stärkste
 Stationen
 Statistik
-statistisch
+Statistisch
 statistische
 statistischen
 statt
@@ -2158,12 +2158,12 @@ ungeeignete
 ungefähr
 ungenügenden
 ungünstigem
-univariate
+Univariate
 univariaten
 univariater
 univunivariaten
 Unkown
-Unsere
+unsere
 unserem
 unserer
 unten
@@ -2289,7 +2289,7 @@ vom
 von
 voneinander
 Voogd
-Vor
+vor
 vorangegangenen
 Voraussetzungen
 Vorbehandlung
@@ -2342,7 +2342,7 @@ Weissenborn
 Weissman
 weiter
 Weitere
-Weiteren
+weiteren
 weiterer
 weiteres
 weitgehend
@@ -2431,10 +2431,10 @@ Zugabe
 zugeführt
 zugeordnet
 zuletzt
-zum
+Zum
 zunächst
 Zuordnung
-zur
+Zur
 zurückgegriffen
 zusammengefasst
 Zusammengenommen
