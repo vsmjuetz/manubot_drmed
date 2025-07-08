@@ -21,8 +21,8 @@ header-includes: |
   <meta name="dc.date" content="2025-04-19" />
   <meta name="citation_publication_date" content="2025-04-19" />
   <meta property="article:published_time" content="2025-04-19" />
-  <meta name="dc.modified" content="2025-07-08T22:54:58+00:00" />
-  <meta property="article:modified_time" content="2025-07-08T22:54:58+00:00" />
+  <meta name="dc.modified" content="2025-07-08T22:56:01+00:00" />
+  <meta property="article:modified_time" content="2025-07-08T22:56:01+00:00" />
   <meta name="dc.language" content="de" />
   <meta name="citation_language" content="de" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -35,9 +35,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://vsmjuetz.github.io/manubot_drmed/" />
   <meta name="citation_pdf_url" content="https://vsmjuetz.github.io/manubot_drmed/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://vsmjuetz.github.io/manubot_drmed/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://vsmjuetz.github.io/manubot_drmed/v/511028e13bfc7760f0d9efb648daf8ab85a6ba6d/" />
-  <meta name="manubot_html_url_versioned" content="https://vsmjuetz.github.io/manubot_drmed/v/511028e13bfc7760f0d9efb648daf8ab85a6ba6d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://vsmjuetz.github.io/manubot_drmed/v/511028e13bfc7760f0d9efb648daf8ab85a6ba6d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://vsmjuetz.github.io/manubot_drmed/v/61571d7440084c2162d5dda2be878feb93689c5c/" />
+  <meta name="manubot_html_url_versioned" content="https://vsmjuetz.github.io/manubot_drmed/v/61571d7440084c2162d5dda2be878feb93689c5c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://vsmjuetz.github.io/manubot_drmed/v/61571d7440084c2162d5dda2be878feb93689c5c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,9 +59,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://vsmjuetz.github.io/manubot_drmed/v/511028e13bfc7760f0d9efb648daf8ab85a6ba6d/))
+([permalink](https://vsmjuetz.github.io/manubot_drmed/v/61571d7440084c2162d5dda2be878feb93689c5c/))
 was automatically generated
-from [vsmjuetz/manubot_drmed@511028e](https://github.com/vsmjuetz/manubot_drmed/tree/511028e13bfc7760f0d9efb648daf8ab85a6ba6d)
+from [vsmjuetz/manubot_drmed@61571d7](https://github.com/vsmjuetz/manubot_drmed/tree/61571d7440084c2162d5dda2be878feb93689c5c)
 on July 8, 2025.
 </em></small>
 
