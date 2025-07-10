@@ -10,6 +10,7 @@ platforms with Git installed.
 
 import json
 import os
+import argparse
 import subprocess
 import sys
 import time
@@ -20,8 +21,20 @@ import requests
 
 # Basis-Konfiguration
 ORG_NAME = "manubot"
-TARGET_DIR = Path("/Users/martin/dissertation_manubots")
-LOG_FILE = TARGET_DIR / "clone_report.json"
+DEST_ENV_VAR = "MANUBOT_CLONE_DIR"
+DEFAULT_DIR = Path.home() / "manubot_repos"
+
+def get_target_dir(arg_path: str | None) -> Path:
+    """Determine the directory for cloning repositories."""
+    if arg_path:
+        return Path(arg_path).expanduser()
+    env_path = os.environ.get(DEST_ENV_VAR)
+    if env_path:
+        return Path(env_path).expanduser()
+    return DEFAULT_DIR
+
+TARGET_DIR: Path  # will be set in main()
+LOG_FILE: Path
 API_URL_TEMPLATE = "https://api.github.com/orgs/{org}/repos?per_page=100&page={page}"
 def ensure_git_available() -> None:
     """Prüfen, ob das Git-Binary verfügbar ist."""
@@ -85,6 +98,22 @@ def clone_repo(clone_url: str, destination: Path) -> str:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(
+        description="Clone GitHub repos of an organization"
+    )
+    parser.add_argument(
+        "-d",
+        "--dest",
+        help=(
+            f"directory to clone repositories to (default: ${DEST_ENV_VAR} or {DEFAULT_DIR})"
+        ),
+    )
+    args = parser.parse_args()
+
+    global TARGET_DIR, LOG_FILE
+    TARGET_DIR = get_target_dir(args.dest)
+    LOG_FILE = TARGET_DIR / "clone_report.json"
+
     ensure_git_available()
     TARGET_DIR.mkdir(parents=True, exist_ok=True)
     log_entries = load_log()
