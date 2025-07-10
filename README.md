@@ -49,6 +49,20 @@ Run the script with the input file and the output directory, for example:
 
 The script generates `00_mapping.md` with an overview of the produced files.
 
+### Cloning Manubot repositories
+
+`clone_manubot_repos.py` downloads all public repositories from the
+`manubot` organization. By default the repositories are cloned to
+`~/manubot_repos` (or the directory specified by the `MANUBOT_CLONE_DIR`
+environment variable). You can override the destination using the
+`--dest` option:
+
+```sh
+MANUBOT_CLONE_DIR=/some/dir ./clone_manubot_repos.py
+# or provide the directory on the command line
+./clone_manubot_repos.py --dest /path/to/destination
+```
+
 ### Local execution
 
 The easiest way to run Manubot is to use [continuous integration](#continuous-integration) to rebuild the manuscript when the content changes.
